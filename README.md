@@ -23,6 +23,10 @@ Acesse: https://app.vagrantup.com/boxes
 * Login: admin
 * Senha: virtualizandoaju@2021
 
+# O que será instalado no SO de mais relevante?
+
+* Ansible, ansible awx, docker e kubernetes
+
 # Origem do pacote Ansible AWX 17.1.0  utilizado 
 
 GitHub da comunidade: https://github.com/ansible/awx
