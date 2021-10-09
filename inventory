@@ -111,7 +111,7 @@ admin_password=virtualizandoaju@2021
 create_preload_data=True
 
 # AWX Secret key
-# It's *very* important that this stay the same between upgrades or you will lose the ability to decrypt
+# It's very important that this stay the same between upgrades or you will lose the ability to decrypt
 # your credentials
 secret_key=6YJ0TM4MsmpKIrNCqEVA1i4TAa3zbG
 
