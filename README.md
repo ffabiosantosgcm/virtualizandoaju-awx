@@ -16,7 +16,7 @@ Acesse: https://app.vagrantup.com/boxes
 # Instruções para instalar o ansible awx usando vagrant
 
 * Instale o vagrant mais recente
-* Baixe o box no site 
+* Baixe o box no site https://app.vagrantup.com/virtualizandoaju/boxes/for_ansible_awx
 * Faça o git clone para uma pasta do projeto
 * Execute vagrant up para iniciar a instalação
 * Teste a url: https://192.168.79.200
